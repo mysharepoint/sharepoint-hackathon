@@ -44,7 +44,7 @@ Create a comprehensible and competent text about the paper that can be integrate
 --------------------------------------------
 
 Example: 
-'''
+```
 # General data of the paper 
 
 * Title: LongKey: A Novel Framework for Keyphrase Extraction from Long Documents 
@@ -121,4 +121,4 @@ Most keyword extraction methods only work with short documents (up to 512 tokens
 
 Today we're talking about an intriguing new framework called LongKey that is revolutionizing the extraction of keywords from long documents. Developed by a team at the Institute of Advanced Computing, LongKey extends token support to an impressive 96,000 tokens and utilizes a modified longformer architecture. This innovation makes it possible to efficiently process long documents such as scientific papers and technical reports. Particularly exciting is the use of a max-pooling embedder, which captures the context better than conventional methods. The results are impressive: LongKey clearly outperforms existing methods and shows its strength in various domains. 
 
-'''
+```
