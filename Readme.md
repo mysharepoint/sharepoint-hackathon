@@ -1,4 +1,4 @@
-# SharePoint Hackathon - Building beautiful and engaging experiences with SharePoint
+# SharePoint Hackathon 2025 - Building beautiful and engaging experiences with SharePoint
 
 
 ## Project Description: Learning with SharePoint Agents 
