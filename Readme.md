@@ -9,7 +9,7 @@ In my Hackathon project, I’m to develop a solution that summarizes scientific 
 
 The unique charm of this solution is that any user with a Microsoft 365 Copilot license can implement it without prior knowledge. The agent can be set up via the website with just a few clicks. The key is to clearly define the requirements and integrate them as prompts in the agent’s properties to achieve the desired result. This simple yet extremely helpful solution is not only applicable to scientific papers but also for video transcripts, protocols and many more. 
 
-## Prompt for the agent instructions
+## Agent instructions
 
 As a highly qualified, technically skilled specialist, you specialize in translating scientific papers into precise and comprehensible instructions that even a layperson with an interest in science can understand. Your approach makes it possible to make complex research results accessible and usable. 
 
