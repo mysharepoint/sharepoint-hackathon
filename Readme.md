@@ -1,5 +1,13 @@
 # SharePoint Hackathon 2025 - Building beautiful and engaging experiences with SharePoint
 
+## SharePoint Hackathon 2025
+
+The SharePoint Hackathon 2025 took place in March and brought together creative minds from across the community to explore what’s possible with the latest SharePoint technologies.
+This landing page provides a full overview of the event—including all participants, project submissions, and award winners.
+
+[SharePoint Hackathon @ GitHub ](https://github.com/SharePoint/sharepoint-hackathon)
+
+I contributed to the hackathon with a hands-on example focused on the practical use of SharePoint Agents, demonstrating how they can be applied to real-world scenarios.
 
 ## Project Description: Learning with SharePoint Agents 
 
